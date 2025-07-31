@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Result">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/response/response.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/response/user.go" />
+              <option value="file://$PROJECT_DIR$/response/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="transport">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/token.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/../distribution/main5.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753955704157" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753955511441" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/mypackage.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753954632792" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/mypackage/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753953409583" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/mypackage/mypackage.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753953268438" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753955233408" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/mypackage.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753954828517" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/permission.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753952654638" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/response/response.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753954916464" />
+              <option name="schema">
+                <list>
+                  <option value="Result" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/response/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753955347757" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/token.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753952547411" />
+              <option name="schema">
+                <list>
+                  <option value="transport" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/warehouse.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753952578619" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/response/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1753955591887" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="result" value="Result" />
+        <entry key="transport" value="transport" />
+        <entry key="user" value="User" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1753952235223" />
+  </component>
+</project>
