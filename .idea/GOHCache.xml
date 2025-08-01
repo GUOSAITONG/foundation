@@ -6,22 +6,23 @@
         <entry key="Result">
           <value>
             <set>
-              <option value="file://$PROJECT_DIR$/pkg/response/response.go" />
+              <option value="file://$PROJECT_DIR$/response/response.go" />
+              <option value="file://$PROJECT_DIR$/../zuoye/main.go" />
             </set>
           </value>
         </entry>
         <entry key="User">
           <value>
             <set>
-              <option value="file://$PROJECT_DIR$/pkg/response/user.go" />
               <option value="file://$PROJECT_DIR$/response/user.go" />
+              <option value="file://$PROJECT_DIR$/../zuoye/main.go" />
             </set>
           </value>
         </entry>
-        <entry key="transport">
+        <entry key="Users">
           <value>
             <set>
-              <option value="file://$PROJECT_DIR$/pkg/token.go" />
+              <option value="file://$PROJECT_DIR$/../zuoye/user-srv/handler/models/user.go" />
             </set>
           </value>
         </entry>
@@ -29,13 +30,6 @@
     </option>
     <option name="scannedPathMapping">
       <map>
-        <entry key="file://$PROJECT_DIR$/../distribution/main5.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1753955704157" />
-            </ScannedPath>
-          </value>
-        </entry>
         <entry key="file://$PROJECT_DIR$/main.go">
           <value>
             <ScannedPath>
@@ -43,49 +37,7 @@
             </ScannedPath>
           </value>
         </entry>
-        <entry key="file://$PROJECT_DIR$/mypackage.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1753954632792" />
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/mypackage/main.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1753953409583" />
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/mypackage/mypackage.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1753953268438" />
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/pkg/main.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1753955233408" />
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/pkg/mypackage.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1753954828517" />
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/pkg/permission.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1753952654638" />
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/pkg/response/response.go">
+        <entry key="file://$PROJECT_DIR$/response/response.go">
           <value>
             <ScannedPath>
               <option name="lastModified" value="1753954916464" />
@@ -94,37 +46,6 @@
                   <option value="Result" />
                 </list>
               </option>
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/pkg/response/user.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1753955347757" />
-              <option name="schema">
-                <list>
-                  <option value="User" />
-                </list>
-              </option>
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/pkg/token.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1753952547411" />
-              <option name="schema">
-                <list>
-                  <option value="transport" />
-                </list>
-              </option>
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/pkg/warehouse.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1753952578619" />
             </ScannedPath>
           </value>
         </entry>
@@ -140,15 +61,34 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/../zuoye/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754050278306" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../zuoye/user-srv/handler/models/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1754050414384" />
+              <option name="schema">
+                <list>
+                  <option value="Users" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="tableStructMapping">
       <map>
         <entry key="result" value="Result" />
-        <entry key="transport" value="transport" />
         <entry key="user" value="User" />
+        <entry key="users" value="Users" />
       </map>
     </option>
-    <option name="lastTimeChecked" value="1753952235223" />
+    <option name="lastTimeChecked" value="1754041419351" />
   </component>
 </project>
